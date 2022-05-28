@@ -67,7 +67,7 @@ int SN_dd,SN_mm,SN_yy,SN_dd1,SN_mm1,SN_yy1,SN_da,SN_ma,SN_ya;
 ```
 SN_ya,SN_ma,SN_da //===> Su edad.
 ```
-# Instalción
+# Instalación
 1.- Descargar F-Droid.
 ```
 https://f-droid.org/
@@ -95,10 +95,11 @@ git clone https://github.com/Mishelle8/ACTIVIDAD-E2.git
 2.- Ingresar al Repositorio.
 ```
 cd ~
+
 cd ACTIVIDAD-E2
 ```
 
-### Compilar y Ejecutar.
+# Compilar y Ejecutar.
 ```
 g++ BedoyaStefany-Compara.cpp -o BedoyaStefany-Compara
 //===> Lo mismo se debe de realizar con los demás programas.
